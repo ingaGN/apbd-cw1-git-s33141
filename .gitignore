@@ -1,0 +1,17 @@
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+gen/
+
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+.vs/
+*.csproj.user
+*.csproj.user.pre
