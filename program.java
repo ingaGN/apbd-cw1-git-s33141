@@ -22,4 +22,7 @@ public class Main{
         System.out.println("calculate max values...");
 
     }
-}
+
+    public void CalculateMin(int[] values){
+
+    }
