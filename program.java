@@ -14,7 +14,7 @@ public class Main{
     }
     
     public void CaluculateAverage(int[] values){
-        System.out.println("calcuate");
+        System.out.println("avg calcuate");
     }
 
     public void CalculateMax(int[] values){
