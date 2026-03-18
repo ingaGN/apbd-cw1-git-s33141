@@ -2,7 +2,7 @@ import java.util.Scanner
 
 public class Main{
     public static void main() {
-        System.out.println("hello!");
+        System.out.println("hi!");
 
         getName();
     }
@@ -15,5 +15,9 @@ public class Main{
     
     public void CaluculateAverage(int[] values){
         System.out.println("calcuate");
+    }
+
+    public void CalculateMax(int[] values){
+        System.out.println("max values");
     }
 }
