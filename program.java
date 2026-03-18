@@ -18,6 +18,8 @@ public class Main{
     }
 
     public void CalculateMax(int[] values){
-        System.out.println("zmiana");
+
+        System.out.println("calculate max values...");
+
     }
 }
