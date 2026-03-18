@@ -12,4 +12,8 @@ public class Main{
         Scanner sc = new Scanner(System.in);
         String name = sc.nextLine();
     }
+    
+    public void CaluculateAverage(int[] values){
+        System.out.println("calcuate");
+    }
 }
