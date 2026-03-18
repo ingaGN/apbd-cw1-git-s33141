@@ -24,5 +24,5 @@ public class Main{
     }
 
     public void CalculateMin(int[] values){
-
+        System.out.println("CalculateMIn");
     }
